@@ -1,6 +1,1669 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://goo.gl/E3lVLy" group-title="SERIES EM HD" ,IPTVBRASILHD.BLOGSPOT.COM
 http://wse.planeta-online.tv:1935/live/channel_3/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 6x01
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT05EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 5x22 O Homem Amargo e o Mar - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT05EP22.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 5x21 Perto da Morte Nos Separe
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT05EP21.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 5x20 Lutar Até o Fim
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT05EP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 5x19 Mãe de Outro Mudlick Em Breve
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT05EP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 5x18 Kay Sem Moral
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT05EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 5x17 Mudlick ou Busto
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT05EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 5x16 Coquetéis e Calamina
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT05EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 5x15 Luta em Pé
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT05EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 5x14 O Que Aconteceu Ao Bebé Peggy?
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT05EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 5x13 Compre o Livro
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT05EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 5x12 O Mundo Segundo Peggy
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT05EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 5x11 Decepção Imaculada
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT05EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 5x10 Checkpoint Joyce
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT05EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 5x09 Hack Para o Futuro
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT05EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 5x08 Verifique Mike
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT05EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 5x07 Apoie Seu Local Samuel
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT05EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 5x06 A Última Tentação de Mike
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT05EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 5x05 História Sem Fim de Molly
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT05EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 5x04 Cheatin Longe
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT05EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 5x03 É Para Ser a Temporada de Molly
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT05EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 5x02 Para Ter E Reter
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT05EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 5x01 O Livro de Molly
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT05EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 4x22 Oito é Demais - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT04EP22.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 4x21 A Velha Peggy
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT04EP21.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 4x20 Sexo Mentiras e Helicópteros
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT04EP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 4x19 Quem Tem Medo de J.C. Small?
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT04EP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 4x18 Os Múltiplos Destinos de Mike
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT04EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 4x17 McMillan e Mãe
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT04EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 4x16 A Jogadora Vem Aí
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT04EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 4x15 Três Garotas e Uma Urna
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT04EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 4x14 Homem Rico, Garota Pobre
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT04EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 4x13 A Noite do Microfone Aberto
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT04EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 4x12 A Mente Vence Molly
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT04EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 4x11 Passos de Salsa
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT04EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 4x10 Fim de Semana na Casa da Peggy
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT04EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 4x09 A Extraordinária Aventura de Mike & Molly
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT04EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 4x08 Vejam o Que Molly Tem Feito
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT04EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 4x07 Eles Atiram em Traseiros Não Atiram?
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT04EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 4x06 Molly Flynn Sem Sapatos
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT04EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 4x05 Jogatina na Frente Espionagem nos Fundos
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT04EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 4x04 Cuidado Com o Que Procura
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT04EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 4x03 Sexo e Morte
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT04EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 4x02 A Primeira e Última Ronda
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT04EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 4x01 Molly Está Livre
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT04EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 3x23 Cidade dos Ventos - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT03EP23.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 3x22 Recital da Escola
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT03EP22.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 3x21 Molly Está Fora da Cidade
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT03EP21.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 3x20 Mike Não Consegue Ler
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT03EP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 3x19 Planejando Uma Festa
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT03EP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 3x18 Recesso de Primavera
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT03EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 3x17 O Dia de São Patrício
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT03EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 3x16 Os Novos Sapatos de Molly
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT03EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 3x15 Mike o Provocador
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT03EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 3x14 A Princesa e o Ogro
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT03EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 3x13 Carl Arruma Um Colega de Quarto
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT03EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 3x12 O Aniversário da Molly
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT03EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 3x11 Peixe Para o Café
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT03EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 3x10 Karaokê de Natal
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT03EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 3x09 Mike Presta Um Concurso
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT03EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 3x08 Mike Adora Cuecas
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT03EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 3x07 O Dia de Ação de Graças Foi Cancelado
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT03EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 3x06 Venda de Garagem
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT03EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 3x05 O Chefe do Mike
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT03EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 3x04 Molly no Meio
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT03EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 3x03 Mike Gosta de Bolo
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT03EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 3x02 Vince Toma Um Banho
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT03EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 3x01 A Lua de Mel Acabou
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT03EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 2x23 O Casamento - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT02EP23.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 2x22 O Ensaio
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT02EP22.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 2x21 Solteiro/Solteira
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT02EP21.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 2x20 O Vestido
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT02EP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 2x19 Molly Não Consegue Mentir
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT02EP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 2x18 Peggy Vai à Branson
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT02EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 2x17 Mike Gosta de Lasanha
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT02EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 2x16 Surpresa
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT02EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 2x15 De Carona no Dia dos Namorados
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT02EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 2x14 Escolhas da Joyce
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT02EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 2x13 Victoria Não Pode Dirigir
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT02EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 2x12 Carl Tem Problemas
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT02EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 2x11 Recesso de Natal
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT02EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 2x10 Molly Precisa de Um Número
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT02EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 2x09 Mike Trai
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT02EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 2x08 Peggy Arruma Um Emprego
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT02EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 2x07 Carl Conhece Uma Garota
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT02EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 2x06 Feliz Halloween
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT02EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 2x05 Victoria Vai Embora
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT02EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 2x04 Chevy Bel Air 57
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT02EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 2x03 Mike Está Em Casa
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT02EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 2x02 O Aniversário do Dennis
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT02EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 2x01 Indo Pescar
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT02EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 1x24 O Novo Namorado de Peggy - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/MKEMLYT01EP24.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 1x23 O Aniversário da Victoria
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/MKEMLYT01EP23.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 1x22 Discussão do Charuto
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/MKEMLYT01EP22.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 1x21 Samuel é Demitido
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/MKEMLYT01EP21.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 1x20 Dia de Abertura
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/MKEMLYT01EP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 1x19 Peggy Depila as Pernas
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/MKEMLYT01EP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 1x18 Os Pés de Mike
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/MKEMLYT01EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 1x17 Joyce e Vince & Pêssegos e Ervas
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/MKEMLYT01EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 1x16 Primeiro Dia dos Namorados
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/MKEMLYT01EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 1x15 Jim Não Vai Comer
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/MKEMLYT01EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 1x14 Molly Faz Sopa
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/MKEMLYT01EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 1x13 Mike Vai à Ópera
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/MKEMLYT01EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 1x12 Primeiro Natal
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/MKEMLYT01EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 1x11 Consegue uma Garota
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/MKEMLYT01EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 1x10 Molly Ganha um Chapéu
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/MKEMLYT01EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 1x09 As Novas Botas de Mike
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/MKEMLYT01EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 1x08 O Ronco de Mike
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/MKEMLYT01EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 1x07 Depois de Amar
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/MKEMLYT01EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 1x06 O Apartamento de Mike
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/MKEMLYT01EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 1x05 Carl é Ciumento
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/MKEMLYT01EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 1x04 Mike Não Está Pronto
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/MKEMLYT01EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 1x03 Primeiro Beijo
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/MKEMLYT01EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 1x02 Primeiro Encontro
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/MKEMLYT01EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 1x01 Piloto
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/MKEMLYT01EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",1x1A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT01EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",1x2A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT01EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",1x3A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT01EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",1x4A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT01EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",1x5A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT01EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",1x6A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT01EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",1x7A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT01EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",1x8A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT01EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",1x9A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT01EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",1x10A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT01EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",1x11A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT01EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",1x12A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT01EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",1x13A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT01EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",1x14A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT01EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",1x15A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT01EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",1x16A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT01EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",1x17A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT01EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",1x18A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT01EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",1x19A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT01EP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",1x20A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT01EP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",1x21A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT01EP21.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",1x22A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT01EP22.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",1x23A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT01EP23.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",1x24A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT01EP24.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",1x25A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT01EP25.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",1x26A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT01EP26.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",2x1A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT02EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",2x2A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT02EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",2x3A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT02EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",2x4A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT02EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",2x5A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT02EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",2x6A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT02EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",2x7A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT02EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",2x8A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT02EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",2x9A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT02EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",2x10A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT02EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",2x11A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT02EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",2x12A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT02EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",2x13A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT02EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",2x14A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT02EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",2x15A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT02EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",2x16A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT02EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",2x17A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT02EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",2x18A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT02EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",2x19A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT02EP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",2x20A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT02EP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/PFuOZb" group-title="DUB A Família Hathaway",2x21A Família Hathaway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AFMLHTWYT02EP21.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 5x13 ...Goodbye - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CHUCKT05EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 5x12 ...Sarah
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CHUCKT05EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 5x11 ...Bullet Train
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CHUCKT05EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 5x10 ...Bo
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CHUCKT05EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 5x09 ...Kept Man
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CHUCKT05EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 5x08 ...Baby
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CHUCKT05EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 5x07 ...Santa Suit
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CHUCKT05EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 5x06 ...Curse
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CHUCKT05EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 5x05 ...Hack Off
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CHUCKT05EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 5x04 ...Business Trip
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CHUCKT05EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 5x03 ...Frosted Tips
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CHUCKT05EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 5x02 ...Bearded Bandit
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CHUCKT05EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 5x01 ...Zoom
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CHUCKT05EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 4x24 ...Cliffhanger - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT04EP24.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 4x23 ...Last Details
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT04EP23.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 4x22 ...AGENT X
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT04EP22.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 4x21 ...Wedding Planner
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT04EP21.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 4x20 ...Family Volkoff
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT04EP20.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 4x19 ...Muuurder
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT04EP19.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 4x18 ...A-Team
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT04EP18.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 4x17 ...First Bank of Evil
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT04EP17.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 4x16 ...Masquerade
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT04EP16.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 4x15 ...Cat Squad
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT04EP15.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 4x14 ...Seduction Impossible
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT04EP14.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 4x13 ...Push Mix
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT04EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 4x12 ...Gobbler
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT04EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 4x11 ...Balcony
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT04EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 4x10 ...Leftovers
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT04EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 4x09 ...Phase Three
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT04EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 4x08 ...Fear of Death
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT04EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 4x07 ...First Fight
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT04EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 4x06 ...Aisle of Terror
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT04EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 4x05 ...Couch Lock
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT04EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 4x04 ...Coup D'Etat
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT04EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 4x03 ...Cubic Z
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT04EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 4x02 ...Suitcase
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT04EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 4x01 ...Anniversary
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT04EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 3x19 ...Ring: Part II - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT03EP19.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 3x18 ...Subway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT03EP18.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 3x17 ...Living Dead
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT03EP17.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 3x16 ...Tooth
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT03EP16.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 3x15 ...Role Models
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT03EP15.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 3x14 ...Honeymooners
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT03EP14.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 3x13 ...Other Guy
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT03EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 3x12 ...American Hero
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT03EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 3x11 ...Final Exam
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT03EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 3x10 ...Tic Tac
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT03EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 3x09 ...Beard
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT03EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 3x08 ...Fake Name
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT03EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 3x07 ...Mask
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT03EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 3x06 ...Nacho Sampler
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT03EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 3x05 ...First Class
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT03EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 3x04 ...Operation Awesome
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT03EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 3x03 ...Angel de la Muerte
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT03EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 3x02 ...Three Words
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT03EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 3x01 ...Pink Slip
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT03EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 2x22 ...Ring - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT02EP22.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 2x21 ...Colonel
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT02EP21.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 2x20 ...First Kill
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT02EP20.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 2x19 ...Dream Job
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT02EP19.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 2x18 ...Broken Heart
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT02EP18.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 2x17 ...Predator
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT02EP17.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 2x16 ...Lethal Weapon
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT02EP16.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 2x15 ...Beefcake
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT02EP15.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 2x14 ...Best Friend
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT02EP14.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 2x13 ...Suburbs
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT02EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 2x12 ...Third Dimension
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT02EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 2x11 ...Santa Claus
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT02EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 2x10 ...DeLorean
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT02EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 2x09 ...Sensei
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT02EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 2x08 ...Gravitron
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT02EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 2x07 ...Fat Lady
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT02EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 2x06 ...Ex
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT02EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 2x05 ...Tom Sawyer
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT02EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 2x04 ...Cougars
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT02EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 2x03 ...Break-Up
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT02EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 2x02 ...Seduction
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT02EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 2x01 ...First Date
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT02EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 1x13 ...Marlin - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT01EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 1x12 ...Uncover Lover
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT01EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 1x11 ...Crown Vic
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT01EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 1x10 ...Nemesis
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT01EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 1x09 ...Imported Hard Salami
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 1x08 ...Truth
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 1x07 ...Alma Mater
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 1x06 ...Sandworm
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 1x05 ...Sizzling Shrimp
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 1x04 ...Wookiee
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 1x03 ...Tango
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 1x02 ...Helicopter
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Dublado",Chuck 1x01 ...Intersect
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKT01EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 5x13 LEG ...Goodbye - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS05EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 5x12 LEG ...Sarah
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS05EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 5x11 LEG ...Bullet Train
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS05EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 5x10 LEG ...Bo
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS05EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 5x09 LEG ...Kept Man
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS05EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 5x08 LEG ...Baby
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS05EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 5x07 LEG ...Santa Suit
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS05EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 5x06 LEG ...Curse
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS05EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 5x05 LEG ...Hack Off
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS05EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 5x04 LEG ...Business Trip
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS05EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 5x03 LEG ...Frosted Tips
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS05EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 5x02 LEG ...Bearded Bandit
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS05EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 5x01 LEG ...Zoom
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS05EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 4x24 LEG ...Cliffhanger - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS04EP24.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 4x23 LEG ...Last Details
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS04EP23.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 4x22 LEG ...AGENT X
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS04EP22.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 4x21 LEG ...Wedding Planner
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS04EP21.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 4x20 LEG ...Family Volkoff
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS04EP20.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 4x19 LEG ...Muuurder
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS04EP19.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 4x18 LEG ...A-Team
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS04EP18.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 4x17 LEG ...First Bank of Evil
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS04EP17.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 4x16 LEG ...Masquerade
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS04EP16.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 4x15 LEG ...Cat Squad
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS04EP15.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 4x14 LEG ...Seduction Impossible
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS04EP14.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 4x13 LEG ...Push Mix
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS04EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 4x12 LEG ...Gobbler
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS04EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 4x11 LEG ...Balcony
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS04EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 4x10 LEG ...Leftovers
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS04EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 4x09 LEG ...Phase Three
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS04EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 4x08 LEG ...Fear of Death
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS04EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 4x07 LEG ...First Fight
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS04EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 4x06 LEG ...Aisle of Terror
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS04EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 4x05 LEG ...Couch Lock
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS04EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 4x04 LEG ...Coup D'Etat
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS04EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 4x03 LEG ...Cubic Z
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS04EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 4x02 LEG ...Suitcase
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS04EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 4x01 LEG ...Anniversary
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS04EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 3x19 LEG ...Ring: Part II - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS03EP19.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 3x18 LEG ...Subway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS03EP18.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 3x17 LEG ...Living Dead
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS03EP17.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 3x16 LEG ...Tooth
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS03EP16.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 3x15 LEG ...Role Models
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS03EP15.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 3x14 LEG ...Honeymooners
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS03EP14.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 3x13 LEG ...Other Guy
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS03EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 3x12 LEG ...American Hero
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS03EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 3x11 LEG ...Final Exam
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS03EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 3x10 LEG ...Tic Tac
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS03EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 3x09 LEG ...Beard
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS03EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 3x08 LEG ...Fake Name
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS03EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 3x07 LEG ...Mask
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS03EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 3x06 LEG ...Nacho Sampler
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS03EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 3x05 LEG ...First Class
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS03EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 3x04 LEG ...Operation Awesome
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS03EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 3x03 LEG ...Angel de la Muerte
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS03EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 3x02 LEG ...Three Words
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS03EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 3x01 LEG ...Pink Slip
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS03EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 2x22 LEG ...Ring - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS02EP22.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 2x21 LEG ...Colonel
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS02EP21.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 2x20 LEG ...First Kill
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS02EP20.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 2x19 LEG ...Dream Job
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS02EP19.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 2x18 LEG ...Broken Heart
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS02EP18.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 2x17 LEG ...Predator
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS02EP17.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 2x16 LEG ...Lethal Weapon
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS02EP16.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 2x15 LEG ...Beefcake
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS02EP15.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 2x14 LEG ...Best Friend
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS02EP14.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 2x13 LEG ...Suburbs
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS02EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 2x12 LEG ...Third Dimension
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS02EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 2x11 LEG ...Santa Claus
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS02EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 2x10 LEG ...DeLorean
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS02EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 2x09 LEG ...Sensei
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS02EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 2x08 LEG ...Gravitron
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS02EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 2x07 LEG ...Fat Lady
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS02EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 2x06 LEG ...Ex
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS02EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 2x05 LEG ...Tom Sawyer
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS02EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 2x04 LEG ...Cougars
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS02EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 2x03 LEG ...Break-Up
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS02EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 2x02 LEG ...Seduction
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS02EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 2x01 LEG ...First Date
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS02EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 1x13 LEG ...Marlin - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS01EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 1x12 LEG ...Uncover Lover
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS01EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 1x11 LEG ...Crown Vic
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS01EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 1x10 LEG ...Nemesis
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS01EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 1x09 LEG ...Imported Hard Salami
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 1x08 LEG ...Truth
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 1x07 LEG ...Alma Mater
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 1x06 LEG ...Sandworm
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 1x05 LEG ...Sizzling Shrimp
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 1x04 LEG ...Wookiee
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 1x03 LEG ...Tango
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 1x02 LEG ...Helicopter
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KcGH3A" group-title="Chuck Legendado",Chuck 1x01 LEG ...Intersect
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/CHUCKS01EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 7x23 Bosque do Hollander - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT07EP23.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 7x22 Mortos em Nova York
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT07EP22.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 7x21 No Plano Visão
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT07EP21.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 7x20 Dorminhoco
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT07EP20.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 7x19 Cadáver de Habeas
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT07EP19.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 7x18 A Queima Roupa
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT07EP18.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 7x17 Atropelo Hong Kong
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT07EP17.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 7x16 As Coisas Erradas
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT07EP16.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 7x15 Acerto de Contas
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT07EP15.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 7x14 Ressurreição
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT07EP14.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 7x13 Eu Testemunho
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT07EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 7x12 Detetive Particular Caramba!
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT07EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 7x11 Castelo P.I.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT07EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 7x10 Santa Ruim
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT07EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 7x09 Último Grande Herói
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT07EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 7x08 Botão De Desligar
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT07EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 7x07 Era Uma Vez no Oeste
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT07EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 7x06 O Tempo de Nossas Vidas
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT07EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 7x05 Meme é Assassinato
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT07EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 7x04 Brincadeira de Criança
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT07EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 7x03 Perigo Claro e Presente
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT07EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 7x02 Montreal
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT07EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 7x01 Conduzido
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT07EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 6x23 Para Melhor Ou Para Pior - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT06EP23.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 6x22 Veritas
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT06EP22.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 6x21 Lei & Pensionista
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT06EP21.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 6x20 Esse Show Dos Anos 70
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT06EP20.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 6x19 Bem Maior
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT06EP19.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 6x18 O Caminho Do Ninja
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT06EP18.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 6x17 Na Barriga Da Besta
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT06EP17.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 6x16 Sala
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT06EP16.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 6x15 Cheira a Espírito Juvenil
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT06EP15.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 6x14 Vestida Para Matar
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT06EP14.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 6x13 Ribaltat
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT06EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 6x12 Infiltrado
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT06EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 6x11 Sob Fogo
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT06EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 6x10 O Bom O Mau E O Bebê
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT06EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 6x09 Discípulo
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT06EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 6x08 Um Assassinato É Para Sempre
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT06EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 6x07 Tal Pai Tal Filha
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT06EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 6x06 Se Liga
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT06EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 6x05 O Tempo Dirá
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT06EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 6x04 Fã Número Um
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT06EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 6x03 Precisa Saber
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT06EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 6x02 Mundo Dos Sonhos
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT06EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 6x01 Valkyrie
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT06EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 5x24 Bacias Hidrográficas - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT05EP24.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 5x23 O Fator Humano
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT05EP23.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 5x22 Ainda
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT05EP22.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 5x21 O Pombo e a Codorna
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT05EP21.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 5x20 O Jejum e o Peludo
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT05EP20.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 5x19 A Vida dos Outros
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT05EP19.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 5x18 O Andarilho
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT05EP18.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 5x17 Morrendo de Medo
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT05EP17.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 5x16 Caça
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT05EP16.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 5x15 Alvo
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT05EP15.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 5x14 Realidade Estrela Golpeada
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT05EP14.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 5x13 Recolhimento
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT05EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 5x12 Morte de Louco
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT05EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 5x11 Sob a Influência
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT05EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 5x10 Outros Significativos
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT05EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 5x09 Amigo Secreto
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT05EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 5x08 Depois de Horas
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT05EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 5x07 Canção do Cisne
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT05EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 5x06 A Fronteira Final
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT05EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 5x05 Causa Provável
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT05EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 5x04 Assassinato Ele Escreveu...
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT05EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 5x03 Segredo Está Seguro Comigo
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT05EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 5x02 Nublado com Chance de Assassinato
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT05EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 5x01 Depois da Tempestade
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT05EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 4x23 Sempre - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT04EP23.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 4x22 Mortos-vivos Novamente
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT04EP22.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 4x21 Headhunters
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT04EP21.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 4x20 O Estranho
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT04EP20.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 4x19 47 Segundos
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT04EP19.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 4x18 Uma Dança Com a Morte
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT04EP18.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 4x17 Era Uma Vez Um Crime
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT04EP17.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 4x16 Cola
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT04EP16.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 4x15 Pandora
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT04EP15.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 4x14 A Borboleta Azul
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT04EP14.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 4x13 Um Embaraço de Putas
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT04EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 4x12 Discar M Pra o Prefeito
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT04EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 4x11 Até Que a Morte Nos Separe
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT04EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 4x10 Algemado
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT04EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 4x09 Tiro Fatal
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT04EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 4x08 Heartbreak Hotel
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT04EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 4x07 Policiais & Ladrões
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT04EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 4x06 Demônios
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT04EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 4x05 Olho do Beholder
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT04EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 4x04 Chute a Balística
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT04EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 4x03 Caso de Cabeça
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT04EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 4x02 Heróis & Vilões
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT04EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 4x01 Ascensão
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT04EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 3x24 Nocaute - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT03EP24.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 3x23 Bonitos Mortos
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT03EP23.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 3x22 Para Amar e Morrer Em Los Angeles
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT03EP22.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 3x21 O Dead Pool
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT03EP21.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 3x20 Fatia da Morte
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT03EP20.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 3x19 Lei e Assassinato
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT03EP19.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 3x18 Uma Vida Pra Perder
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT03EP18.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 3x17 Contagem Regressiva
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT03EP17.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 3x16 Instalação
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT03EP16.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 3x15 O Último Prego
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT03EP15.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 3x14 Lucky Stiff
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT03EP14.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 3x13 Inesperado
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT03EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 3x12 Puf! Você está Morto
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT03EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 3x11 Nikki Heat
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT03EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 3x10 Última Chamada
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT03EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 3x09 Contatos Imediatos do Tipo Assassino
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT03EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 3x08 Matar a Maioria das Aves
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT03EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 3x07 Quase Famosos
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT03EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 3x06 3XK
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT03EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 3x05 Anatomia de um Crime
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT03EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 3x04 Zuado
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT03EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 3x03 Sob a Pistola
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT03EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 3x02 Ele Está Morto Ela Está Morta
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT03EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 3x01 Um Caso Mortal
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/CSTLT03EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 2x24 Um Jogo Mortal - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT02EP24.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 2x23 Exagero
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT02EP23.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 2x22 Alimentos Para Morrer
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT02EP22.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 2x21 Covil de Ladrões
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT02EP21.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 2x20 O Eixo de Tarde
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT02EP20.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 2x19 Envolvido na Morte
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT02EP19.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 2x18 Boom!
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT02EP18.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 2x17 Tick Tick Tick...
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT02EP17.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 2x16 A Amante Sempre Bate Duas Vezes
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT02EP16.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 2x15 Suicídio Espremido
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT02EP15.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 2x14 O Terceiro Homem
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT02EP14.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 2x13 Soco Otário
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT02EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 2x12 Uma Rosa Para Sempre
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT02EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 2x11 A Quinta Bala
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT02EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 2x10 Um Tesouro do Homem
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT02EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 2x09 Ama-Me Morto
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT02EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 2x08 Mate o Mensageiro
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT02EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 2x07 Famosas Últimas Palavras
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT02EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 2x06 Fim de Semana Vampiro
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT02EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 2x05 Quando O Galho Quebrar
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT02EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 2x04 Me Engane Uma Vez...
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT02EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 2x03 Inventar a Garota
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT02EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 2x02 A Dupla Descida
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT02EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 2x01 No Fundo a Morte
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT02EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 1x10 Um Morte na Familia - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT01EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 1x09 Pouca Menina Perdida
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 1x08 Fantasmas
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 1x07 Lar é Onde o Coração Para
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 1x06 Sempre Compro à Varejo
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 1x05 Um Arrepio Vai Através de Suas Veias
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 1x04 No Inferno Porventura Não Há Fúria
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 1x03 Limite de Fundo Mano
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 1x02 Nanny McDead
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HUS2UI" group-title="Castle Dublado",Castle 1x01 Flores Para a Sua Sepultura
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/CSTLT01EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 4x13 Todos Digam Sim - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT04EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 4x12 Tori Estrelada
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT04EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 4x11 Luta no The Slap
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT04EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 4x10 Espremedores de Cérebros
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT04EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 4x09 Hóspede Indesejável
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT04EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 4x08 Robbie Vende Rex
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT04EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 4x07 Mil Bolas Berry
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT04EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 4x06 Tori Salva Beck e Jade
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT04EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 4x05 Sem Celulares
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT04EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 4x04 Três Garotas e Moose
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT04EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 4x03 Encontro Oposto
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT04EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 4x02 O Rei do Hambone
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT04EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 4x01 O Armazém Do Wanko
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT04EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 3x14 Esquadrão de Loiras - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT03EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 3x13 A Louca Ponnie
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT03EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 3x11/12 A Premiação
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT03EP11-12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 3x10 Como Trina Entrou na HollyWood Arts
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT03EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 3x09 Enlouquecendo a Tori
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT03EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 3x08 Primeiro de Abril em Branco
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT03EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 3x07 O Encontro de Tori e Jade
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT03EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 3x06 Carro Chuva e Fogo
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT03EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 3x05 A Horível Garota do André
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT03EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 3x04 O Pior Casal
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT03EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 3x03 O Clube do Gorila
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT03EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 3x02 A Turma do Café da Manhã
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT03EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 3x01 O Natal da Tori
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT03EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. Ep.Especial 7 Segredos Victória Justice - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT02ES.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 2x13 Erros Brilhantes
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT02EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 2x12 O Bolinho Gigante
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT02EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 2x11 Jade Causa Paixao
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT02EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 2x10 Tori Tortura o Professor
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT02EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 2x09 Quem Fez Isso Com a Trina?
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT02EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 2x08 Helen Está de Volta
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT02EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 2x06/07 Presos
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT02EP06-07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 2x05 Baile Arrasado
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT02EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 2x04 Tori Fica Retida
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT02EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 2x03 Sorvetes Por Ke$ha
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT02EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 2x02 Beck Cai Pela Tori
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT02EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 2x01 Implorando de Joelhos
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT02EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 1x20 Uma Noite na Casa do Sikowitz - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT01EP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 1x19 Um Filme de Dale Squires
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT01EP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 1x18 A Difícil Escolha
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT01EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 1x17 A Peça da Jade
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT01EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 1x16 Os Diddly Bops
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT01EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 1x15 A Morte do Rex
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT01EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 1x13/14 Surtando de Vez
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT01EP13-14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 1x12 O Novo Namorado da Cat
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT01EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 1x11 Armação do Ping-Pong 
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT01EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 1x10 A Grande Peça de Beck
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT01EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 1x09 Wi-Fi no Céu
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT01EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 1x08 Sobrevivência do Mais Calorento
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT01EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 1x07 Robarazzi
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT01EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 1x06 Tori, a Zumbi
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT01EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 1x05 Jade Termina com Beck
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT01EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 1x04 A Canção da Semana do Níver
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT01EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 1x03 Luta Coreografada
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT01EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 1x02 A Cena do Passáro
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT01EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/QjJpGF" group-title="Brilhante Victoria Dublado",Brilhante V. 1x01 A Grande Apresentação
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/VICTDUBT01EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/02Qrsz" group-title="Camelot Legendado",Camelot 1x10 LEG Reckoning - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/CMLTS01EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/02Qrsz" group-title="Camelot Legendado",Camelot 1x09 LEG The Battle of Bardon Pass
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/CMLTS01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/02Qrsz" group-title="Camelot Legendado",Camelot 1x08 LEG Igraine
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/CMLTS01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/02Qrsz" group-title="Camelot Legendado",Camelot 1x07 LEG The Long Night
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/CMLTS01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/02Qrsz" group-title="Camelot Legendado",Camelot 1x06 LEG Three Journeys
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/CMLTS01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/02Qrsz" group-title="Camelot Legendado",Camelot 1x05 LEG Justice
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/CMLTS01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/02Qrsz" group-title="Camelot Legendado",Camelot 1x04 LEG Lady of the Lake
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/CMLTS01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/02Qrsz" group-title="Camelot Legendado",Camelot 1x03 LEG Guinevere
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/CMLTS01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/02Qrsz" group-title="Camelot Legendado",Camelot 1x02 LEG The Sword And The Crown
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/CMLTS01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/02Qrsz" group-title="Camelot Legendado",Camelot 1x01 LEG Homecoming
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/CMLTS01EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Wb3KlB" group-title="Bloodline Dublado",Bloodline 1x13 Part 13 - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BLODLNT01EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Wb3KlB" group-title="Bloodline Dublado",Bloodline 1x12 Part 12
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BLODLNT01EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Wb3KlB" group-title="Bloodline Dublado",Bloodline 1x11 Part 11
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BLODLNT01EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Wb3KlB" group-title="Bloodline Dublado",Bloodline 1x10 Part 10
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BLODLNT01EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Wb3KlB" group-title="Bloodline Dublado",Bloodline 1x09 Part 9
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BLODLNT01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Wb3KlB" group-title="Bloodline Dublado",Bloodline 1x08 Part 8
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BLODLNT01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Wb3KlB" group-title="Bloodline Dublado",Bloodline 1x07 Part 7
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BLODLNT01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Wb3KlB" group-title="Bloodline Dublado",Bloodline 1x06 Part 6
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BLODLNT01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Wb3KlB" group-title="Bloodline Dublado",Bloodline 1x05 Part 5
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BLODLNT01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Wb3KlB" group-title="Bloodline Dublado",Bloodline 1x04 Part 4
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BLODLNT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Wb3KlB" group-title="Bloodline Dublado",Bloodline 1x03 Part 3
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BLODLNT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Wb3KlB" group-title="Bloodline Dublado",Bloodline 1x02 Part 2
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BLODLNT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Wb3KlB" group-title="Bloodline Dublado",Bloodline 1x01 Part 1
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BLODLNT01EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Dublado",Blindspot 1x22 If Love a Rebel Death Will Render
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTT01EP22.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Dublado",Blindspot 1x21 Of Whose Uneasy Route
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTT01EP21.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Dublado",Blindspot 1x20 Swift Hardhearted Stone
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTT01EP20.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Dublado",Blindspot 1x19 In the Comet of Us
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTT01EP19.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Dublado",Blindspot 1x18 One Begets Technique
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTT01EP18.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Dublado",Blindspot 1x17 Mans Telepathic Loyal Lookouts
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTT01EP17.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Dublado",Blindspot 1x16 Any Wounded Thief
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTT01EP16.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Dublado",Blindspot 1x15 Older Cutthroat Canyon
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTT01EP15.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Dublado",Blindspot 1x14 Rules in Defiance
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTT01EP14.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Dublado",Blindspot 1x13 Erase Weary Youth
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTT01EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Dublado",Blindspot 1x12 Scientists Hollow Fortune
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTT01EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Dublado",Blindspot 1x11 Cease Forcing Enemy
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTT01EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Dublado",Blindspot 1x10 Evil Handmade Instrument
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTT01EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Dublado",Blindspot 1x09 Authentic Flirt
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTT01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Dublado",Blindspot 1x08 Persecute Envoys
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTT01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Dublado",Blindspot 1x07 Sent on Tour
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTT01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Dublado",Blindspot 1x06 Cede Your Soul
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTT01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Dublado",Blindspot 1x05 Split the Law
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTT01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Dublado",Blindspot 1x04 Bone May Rot
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Dublado",Blindspot 1x03 Eight Slim Grins
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTT01EP03.mp4t
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Dublado",Blindspot 1x02 Stray Howl
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Dublado",Blindspot 1x01 Pilot
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTT01EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Legendado",Blindspot 1x22 LEG If Love a Rebel, Death Will Render
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTS01EP22.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Legendado",Blindspot 1x21 LEG Of Whose Uneasy Route
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTS01EP21.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Legendado",Blindspot 1x20 LEG Swift Hardhearted Stone
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTS01EP20.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Legendado",Blindspot 1x19 LEG In the Comet of Us
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTS01EP19.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Legendado",Blindspot 1x18 LEG One Begets Technique
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTS01EP18.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Legendado",Blindspot 1x17 LEG Mans Telepathic Loyal Lookouts
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTS01EP17.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Legendado",Blindspot 1x16 LEG Any Wounded Thief
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTS01EP16.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Legendado",Blindspot 1x15 LEG Older Cutthroat Canyon
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTS01EP15.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Legendado",Blindspot 1x14 LEG Rules in Defiance
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTS01EP14.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Legendado",Blindspot 1x13 LEG Erase Weary Youth
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTS01EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Legendado",Blindspot 1x12 LEG Scientists Hollow Fortune
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTS01EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Legendado",Blindspot 1x11 LEG Cease Forcing Enemy
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTS01EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Legendado",Blindspot 1x10 LEG Evil Handmade Instrument
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTS01EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Legendado",Blindspot 1x09 LEG Authentic Flirt
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTS01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Legendado",Blindspot 1x08 LEG Persecute Envoys
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTS01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Legendado",Blindspot 1x07 LEG Sent on Tour
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTS01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Legendado",Blindspot 1x06 LEG Cede Your Soul
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTS01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Legendado",Blindspot 1x05 LEG Split the Law
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTS01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Legendado",Blindspot 1x04 LEG Bone May Rot
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTS01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Legendado",Blindspot 1x03 LEG Eight Slim Grins
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTS01EP03.mp4t
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Legendado",Blindspot 1x02 LEG Stray Howl
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTS01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VdFztO" group-title="Blindspot Legendado",Blindspot 1x01 LEG Pilot
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BLNDSPTS01EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten Dublado",Bitten 2x07 Bad Dreams
+https://googledrive.com/host/0B4qZzv_MkPwQSHlWa0hla3RvTFk/BTENT02EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten Dublado",Bitten 2x06 Nine Circles
+https://googledrive.com/host/0B4qZzv_MkPwQSHlWa0hla3RvTFk/BTENT02EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten Dublado",Bitten 2x05 Rabbit Hole
+https://googledrive.com/host/0B4qZzv_MkPwQSHlWa0hla3RvTFk/BTENT02EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten Dublado",Bitten 2x04 Dead Meat
+https://googledrive.com/host/0B4qZzv_MkPwQSHlWa0hla3RvTFk/BTENT02EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten Dublado",Bitten 2x03 Hell’s Teeth
+https://googledrive.com/host/0B4qZzv_MkPwQSHlWa0hla3RvTFk/BTENT02EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten Dublado",Bitten 2x02 Scare Tactics
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTENT02EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten Dublado",Bitten 2x01 Bad Blood
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTENT02EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten Dublado",Bitten 1x13 Bad Ready - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTENT01EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten Dublado",Bitten 1x12 Caged
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTENT01EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten Dublado",Bitten 1x11 Settling
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTENT01EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten Dublado",Bitten 1x10 Descent
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTENT01EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten Dublado",Bitten 1x09 Vengeance
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTENT01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten Dublado",Bitten 1x08 Prisoner
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTENT01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten Dublado",Bitten 1x07 Stalking
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTENT01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten Dublado",Bitten 1x06 Committed
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTENT01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten Dublado",Bitten 1x05 Bitten
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTENT01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten Dublado",Bitten 1x04 Grief
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTENT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten Dublado",Bitten 1x03 Trespass
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTENT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten Dublado",Bitten 1x02 Prodigal
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTENT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oJ0NFw" group-title="Bitten Dublado",Bitten 1x01 Summons
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTENT01EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Dublado",Better Call 2x10 Klick - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BTRCLSLT02EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Dublado",Better Call 2x09 Nailed
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BTRCLSLT02EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Dublado",Better Call 2x08 Fifi
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BTRCLSLT02EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Dublado",Better Call 2x07 Inflatable
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BTRCLSLT02EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Dublado",Better Call 2x06 Bali Ha’i
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BTRCLSLT02EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Dublado",Better Call 2x05 Rebecca
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BTRCLSLT02EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Dublado",Better Call 2x04 Gloves Off
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BTRCLSLT02EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Dublado",Better Call 2x03 Amarillo
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BTRCLSLT02EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Dublado",Better Call 2x02 Cobbler
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BTRCLSLT02EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Dublado",Better Call 2x01 Interruptor
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BTRCLSLT02EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Dublado",Better Call 1x10 Marco - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTRCLSLT01EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Dublado",Better Call 1x09 Pimento
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTRCLSLT01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Dublado",Better Call 1x08 Rico
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTRCLSLT01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Dublado",Better Call 1x07 Bingo
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTRCLSLT01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Dublado",Better Call 1x06 Five-O
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTRCLSLT01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Dublado",Better Call 1x05 Alpine Shepherd Boy
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTRCLSLT01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Dublado",Better Call 1x04 Hero
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTRCLSLT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Dublado",Better Call 1x03 Nacho
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTRCLSLT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Dublado",Better Call 1x02 Mijo
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTRCLSLT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Dublado",Better Call 1x01 Uno
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTRCLSLT01EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Legendado",Better Call 2x10 LEG Klick - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BTRCLSLS02EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Legendado",Better Call 2x09 LEG Nailed
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BTRCLSLS02EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Legendado",Better Call 2x08 LEG Fifi
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BTRCLSLS02EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Legendado",Better Call 2x07 LEG Inflatable
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BTRCLSLS02EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Legendado",Better Call 2x06 LEG Bali Ha’i
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BTRCLSLS02EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Legendado",Better Call 2x05 LEG Rebecca
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BTRCLSLS02EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Legendado",Better Call 2x04 LEG Gloves Off
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BTRCLSLS02EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Legendado",Better Call 2x03 LEG Amarillo
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BTRCLSLS02EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Legendado",Better Call 2x02 LEG Cobbler
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BTRCLSLS02EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Legendado",Better Call 2x01 LEG Interruptor
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/BTRCLSLS02EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Legendado",Better Call 1x10 LEG Marco - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTRCLSLS01EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Legendado",Better Call 1x09 LEG Pimento
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTRCLSLS01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Legendado",Better Call 1x08 LEG Rico
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTRCLSLS01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Legendado",Better Call 1x07 LEG Bingo
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTRCLSLS01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Legendado",Better Call 1x06 LEG Five-O
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTRCLSLS01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Legendado",Better Call 1x05 LEG Alpine Shepherd Boy
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTRCLSLS01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Legendado",Better Call 1x04 LEG Hero
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTRCLSLS01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Legendado",Better Call 1x03 LEG Nacho
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTRCLSLS01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Legendado",Better Call 1x02 LEG Mijo
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTRCLSLS01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/buF3R8" group-title="Better Call Saul Legendado",Better Call 1x01 LEG Uno
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BTRCLSLS01EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Dublado",Bates 3x10 Unconscious - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT03EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Dublado",Bates 3x09 Crazy
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT03EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Dublado",Bates 3x08 The Pit
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT03EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Dublado",Bates 3x07 The Last Supper
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT03EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Dublado",Bates 3x06 Norma Louise
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT03EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Dublado",Bates 3x05 The Deal
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT03EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Dublado",Bates 3x04 Unbreak-Able
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT03EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Dublado",Bates 3x03 Persuasion
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT03EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Dublado",Bates 3x02 The Arcanum Club
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT03EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Dublado",Bates 3x01 A Death in the Family
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT03EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Dublado",Bates 2x10 The Immutable Truth - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT02EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Dublado",Bates 2x09 The Box
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT02EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Dublado",Bates 2x08 Meltdown
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT02EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Dublado",Bates 2x07 Presumed Innocent
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT02EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Dublado",Bates 2x06 Plunge
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT02EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Dublado",Bates 2x05 The Escape Artist
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT02EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Dublado",Bates 2x04 Check-Out
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT02EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Dublado",Bates 2x03 Caleb
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT02EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Dublado",Bates 2x02 Shadow of a Doubt
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT02EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Dublado",Bates 2x01 Gone But Not Forgotten
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT02EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Dublado",Bates 1x10 Midnight - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT01EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Dublado",Bates 1x09 Underwater
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Dublado",Bates 1x08 A Boy and His Dog
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Dublado",Bates 1x07 The Man in Number 9
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Dublado",Bates 1x06 The Truth
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Dublado",Bates 1x05 Ocean View
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Dublado",Bates 1x04 Trust Me
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Dublado",Bates 1x03 What’s Wrong With Norman
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Dublado",Bates 1x02 Nice Town You Picked Norma…
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Dublado",Bates 1x01 First You Dream Then You Die
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLT01EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Legendado",Bates 3x10 LEG Unconscious - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLS03EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Legendado",Bates 3x09 LEG Crazy
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLS03EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Legendado",Bates 3x08 LEG The Pit
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLS03EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Legendado",Bates 3x07 LEG The Last Supper
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLS03EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Legendado",Bates 3x06 LEG Norma Louise
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLS03EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Legendado",Bates 3x05 LEG The Deal
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLS03EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Legendado",Bates 3x04 LEG Unbreak-Able
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLS03EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Legendado",Bates 3x03 LEG Persuasion
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLS03EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Legendado",Bates 3x02 LEG The Arcanum Club
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLS03EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Legendado",Bates 3x01 LEG A Death in the Family
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BATMTLS03EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Legendado",Bates 2x10 LEG The Immutable Truth - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS02EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Legendado",Bates 2x09 LEG The Box
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS02EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Legendado",Bates 2x08 LEG Meltdown
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS02EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Legendado",Bates 2x07 LEG Presumed Innocent
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS02EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Legendado",Bates 2x06 LEG Plunge
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS02EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Legendado",Bates 2x05 LEG The Escape Artist
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS02EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Legendado",Bates 2x04 LEG Check-Out
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS02EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Legendado",Bates 2x03 LEG Caleb
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS02EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Legendado",Bates 2x02 LEG Shadow of a Doubt
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS02EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Legendado",Bates 2x01 LEG Gone But Not Forgotten
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS02EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Legendado",Bates 1x10 LEG Midnight - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS01EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Legendado",Bates 1x09 LEG Underwater
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Legendado",Bates 1x08 LEG A Boy and His Dog
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Legendado",Bates 1x07 LEG The Man in Number 9
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Legendado",Bates 1x06 LEG The Truth
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Legendado",Bates 1x05 LEG Ocean View
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Legendado",Bates 1x04 LEG Trust Me
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Legendado",Bates 1x03 LEG What’s Wrong With Norman
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Legendado",Bates 1x02 LEG Nice Town You Picked Norma…
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RmTIxx" group-title="Bates Motel Legendado",Bates 1x01 LEG First You Dream Then You Die
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/BATMTLS01EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 3x15 The Reckoning - Seaon Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/THFLGT03EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 3x14 Dead or Alive
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/THFLGT03EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 3x13 A Simple Trade
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/THFLGT03EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 3x12 The Edge
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/THFLGT03EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 3x11 Demons
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/THFLGT03EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 3x10 Evermore
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/THFLGT03EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 3x09 Kill The Messenger
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/THFLGT03EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 3x08 Flesh & Blood
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/THFLGT03EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 3x07 The Hunt
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/THFLGT03EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 3x06 Reunion
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/THFLGT03EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 3x05 A Hostile Witness
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/THFLGT03EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 3x04 Home
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/THFLGT03EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 3x03 Exposed
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/THFLGT03EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 3x02 Boxed In
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/THFLGT03EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 3x01 New Blood
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/THFLGT03EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Dublado",The Following 2x15 Forgive - Seaon Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGT02EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Dublado",The Following 2x14 Silence
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGT02EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Dublado",The Following 2x13 The Reaping
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGT02EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Dublado",The Following 2x12 Betrayal
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGT02EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Dublado",The Following 2x11 Freedom
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGT02EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Dublado",The Following 2x10 Teacher’s Pet
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGT02EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Dublado",The Following 2x09 Unmasked
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGT02EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Dublado",The Following 2x08 The Messenger
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGT02EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Dublado",The Following 2x07 Sacrifice
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGT02EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Dublado",The Following 2x06 Fly Away
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGT02EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Dublado",The Following 2x05 Reflection
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGT02EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Dublado",The Following 2x04 Family Affair
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGT02EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Dublado",The Following 2x03 Trust Me
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGT02EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Dublado",The Following 2x02 For Joe
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGT02EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Dublado",The Following 2x01 Resurrection
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGT02EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Dublado",The Following 1x15 The Final Chapter - Seaon Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/THFLGT01EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Dublado",The Following 1x14 The End Is Nearv
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/THFLGT01EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Dublado",The Following 1x13 Havenport
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/THFLGT01EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Dublado",The Following 1x12 The Curse
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/THFLGT01EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Dublado",The Following 1x11 Whips and Regret
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/THFLGT01EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Dublado",The Following 1x10 Guilt
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/THFLGT01EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Dublado",The Following 1x09 Love Hurts
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/THFLGT01EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Dublado",The Following 1x08 Welcome Home
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/THFLGT01EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Dublado",The Following 1x07 Let Me Go
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/THFLGT01EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Dublado",The Following 1x06 The Fall
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/THFLGT01EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Dublado",The Following 1x05 The Siege
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/THFLGT01EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Dublado",The Following 1x04 Mad Love
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/THFLGT01EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Dublado",The Following 1x03 The Poet’s Fire
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/THFLGT01EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Dublado",The Following 1x02 Chapter Two
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/THFLGT01EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Dublado",The Following 1x01 Pilot
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/THFLGT01EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 3x15  The Reckoning - Seaon Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS03EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 3x14  Dead or Alive
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS03EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 3x13  A Simple Trade
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS03EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 3x12  The Edge
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS03EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 3x11  Demons
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS03EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 3x10  Evermore
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS03EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 3x09  Kill The Messenger
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS03EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 3x08  Flesh & Blood
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS03EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 3x07  The Hunt
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS03EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 3x06  Reunion
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS03EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 3x05  A Hostile Witness
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS03EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 3x04  Home
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS03EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 3x03  Exposed
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS03EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 3x02  Boxed In
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS03EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 3x01  New Blood
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS03EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 2x15  Forgive - Seaon Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS02EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 2x14  Silence
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS02EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 2x13  The Reaping
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS02EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 2x12  Betrayal
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS02EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 2x11  Freedom
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS02EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 2x10  Teacher’s Pet
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS02EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 2x09  Unmasked
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS02EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 2x08  The Messenger
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS02EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 2x07  Sacrifice
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS02EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 2x06  Fly Away
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS02EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 2x05  Reflection
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS02EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 2x04  Family Affair
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS02EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 2x03  Trust Me
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS02EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 2x02  For Joe
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS02EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 2x01  Resurrection
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS02EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 1x15  The Final Chapter - Seaon Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS01EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 1x14  The End Is Nearv
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS01EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 1x13  Havenport
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS01EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 1x12  The Curse
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS01EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 1x11  Whips and Regret
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS01EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 1x10  Guilt
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS01EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 1x09  Love Hurts
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS01EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 1x08  Welcome Home
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS01EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 1x07  Let Me Go
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS01EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 1x06  The Fall
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS01EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 1x05  The Siege
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS01EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 1x04  Mad Love
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS01EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 1x03  The Poet’s Fire
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS01EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 1x02  Chapter Two
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS01EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/kCpLUo" group-title="The Following Legendado",The Following 1x01  Pilot
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THFLGS01EP01.mp4
+
 #EXTINF:-1 tvg-logo="https://goo.gl/8ZFPBe" group-title="DUB Air Force One Is Down",1x1Air Force One Is Down
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AIRFRCONIDEP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/8ZFPBe" group-title="DUB Air Force One Is Down",1x2Air Force One Is Down
