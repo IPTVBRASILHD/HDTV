@@ -1,6 +1,492 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://goo.gl/E3lVLy" group-title="SERIES EM HD" ,IPTVBRASILHD.BLOGSPOT.COM
 http://wse.planeta-online.tv:1935/live/channel_3/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 6x10 New York I Love You XOXO - Series Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer06/ondemand/GSPGRLT06EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 6x09 The Revengers
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer06/ondemand/GSPGRLT06EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 6x08 It’s Really Complicated
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer06/ondemand/GSPGRLT06EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 6x07 Save the Last Chance
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer06/ondemand/GSPGRLT06EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 6x06 Where the Vile Things Are
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer06/ondemand/GSPGRLT06EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 6x05 Monstrous Ball
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer06/ondemand/GSPGRLT06EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 6x04 Portrait of a Lady Alexander
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer06/ondemand/GSPGRLT06EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 6x03 Dirty Rotten Scandals
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer06/ondemand/GSPGRLT06EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 6x02 High Infidelity
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer06/ondemand/GSPGRLT06EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 6x01 Gone Maybe Gone
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer06/ondemand/GSPGRLT06EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 5x24 The Return of the Ring - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/GSPGRLT05EP24.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 5x23 The Fugitives
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/GSPGRLT05EP23.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 5x22 Raiders of The Lost Art
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/GSPGRLT05EP22.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 5x21 Despicable B.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/GSPGRLT05EP21.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 5x20 Salon of the Dead
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/GSPGRLT05EP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 5x19 It Girl Interrupted
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/GSPGRLT05EP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 5x18 Con-Heir
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/GSPGRLT05EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 5x17 The Princess Dowry
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/GSPGRLT05EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 5x16 Cross Rhodes
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/GSPGRLT05EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 5x15 Crazy Cupid Love
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/GSPGRLT05EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 5x14 The Backup Dan
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/GSPGRLT05EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 5x13 G.G.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/GSPGRLT05EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 5x12 Father and the Bride
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/GSPGRLT05EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 5x11 The End of The Affair?
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/GSPGRLT05EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 5x10 Riding In Town Cars With Boys
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/GSPGRLT05EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 5x09 Rhodes To Perdition
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/GSPGRLT05EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 5x08 All the Pretty Sources
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/GSPGRLT05EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 5x07 The Big Sleep No More
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/GSPGRLT05EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 5x06 I Am Number Nine
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/GSPGRLT05EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 5x05 The Fasting and the Furious
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/GSPGRLT05EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 5x04 The Jewel Of Denial
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/GSPGRLT05EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 5x03 The Jewel Of Denial
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/GSPGRLT05EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 5x02 Beauty and The Feast
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/GSPGRLT05EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 5x01 Yes Then Zero
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/GSPGRLT05EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 4x22 The Wrong Goodbye - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT04EP22.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 4x21 Shattered Bass
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT04EP21.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 4x20 The Princesses and the Frog
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT04EP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 4x19 Petty in Pink
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT04EP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 4x18 The Kids Stay in the Picture
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT04EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 4x17 Empire of the Son
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT04EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 4x16 While You Weren’t Sleeping
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT04EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 4x15 It-Girl Happened One Night
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT04EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 4x14 Panic Roommate
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT04EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 4x13 Damien Darko
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT04EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 4x12 The Kids Are Not All Right
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT04EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 4x11 The Townie
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT04EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 4x10 Gaslit
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT04EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 4x09 The Witches of Bushwick
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT04EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 4x08 Juliet Doesn’t Live Here Anymore
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT04EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 4x07 War At The Roses
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT04EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 4x06 Easy J
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT04EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 4x05 Goodbye Columbia
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT04EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 4x04 Touch of Eva
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT04EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 4x03 The Undergraduates
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT04EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 4x02 Double Identity
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT04EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 4x01 Belles de Jour
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT04EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 3x22 Last Tango Then Paris - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT03EP22.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 3x21 Ex-Husbands and Wives
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT03EP21.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 3x20 It’s a Dad Dad Dad Dad World
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT03EP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 3x19 Dr. Estrangeloved
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT03EP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 3x18 The Unblairable Lightness of Being
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT03EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 3x17 Inglourious Bassterds
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT03EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 3x16 The Empire Strikes Jack
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT03EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 3x15 The Sixteen Year Old Virgin
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT03EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 3x14 The Lady Vanished
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT03EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 3x13 The Hurt Locket
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT03EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 3x12 The Debarted
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT03EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 3x11 The Treasure of Serena Madre
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT03EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 3x10 The Last Days of Disco Stick!
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT03EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 3x09 They Shoot Humphreys Don’t They?
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT03EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 3x08 The Grandfather: Part II
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT03EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 3x07 How to Succeed in Bassness
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT03EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 3x06 Enough About Eve
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT03EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 3x05 Rufus Getting Married
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT03EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 3x04 Dan De Fleurette
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT03EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 3x03 The Lost Boy
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT03EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 3x02 The Freshman
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT03EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 3x01 Reversals of Fortune
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT03EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 2x25 The Goodbye Gossip Girl - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT02EP25.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 2x24 Valley Girls
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT02EP24.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 2x23 The Wrath of Con
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT02EP23.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 2x22 Southern Gentlemen Prefer Blondes
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT02EP22.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 2x21 Seder Anything
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT02EP21.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 2x20 Remains of the J
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT02EP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 2x19 The Grandfather
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT02EP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 2x18 The Age of Dissonance
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT02EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 2x17 Carnal Knowledge
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT02EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 2x16 You’ve Got Yale!
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT02EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 2x15 Gone With the Will
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT02EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 2x14 In The Realm of the Basses
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT02EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 2x13 O Brother Where Bart Thou?
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT02EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 2x12 It’s a Wonderful Lie
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT02EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 2x11 The Magnificent Archibalds
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT02EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 2x10 Bonfire of The Vanity
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT02EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 2x09 There Might Be Blood
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT02EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 2x08 Pret-a-Poor Jenny
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT02EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",3ossip Girl 2x07 Chuck In Real Life
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT02EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 2x06 New Haven Can Wait
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT02EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 2x05 The Serena Also Rises
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT02EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 2x04 The Ex-Files
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT02EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 2x03 The Dark Night
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT02EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 2x02 Never Been Marcused
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT02EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 2x01 Summer Kind Of Wonderful
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GSPGRLT02EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 1x18 Much ‘I Do’ About Nothing - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GGT01EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 1x17 Woman on the Verge
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GGT01EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 1x16 All About My Brother
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GGT01EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 1x15 Desperately Seeking Serena
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GGT01EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 1x14 The Blair Bitch Project
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GGT01EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 1x13 A Thin Line Between Chuck and Nate
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GGT01EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 1x12 School Lies
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GGT01EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 1x11 Roman Holiday
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GGT01EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 1x10 Hi Society
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GGT01EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 1x09 Blair Waldorf Must Pie!
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GGT01EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 1x08 Seventeen Candles
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GGT01EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 1x07 Victor Victrola
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GGT01EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 1x06 The Handmaiden’s Tale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GGT01EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 1x05 Dare Devil
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GGT01EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 1x04 Bad News Blair
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GGT01EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 1x03 Poison Ivy
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GGT01EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 1x02 The Wild Brunch
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GGT01EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Dublado",Gossip Girl 1x01 Pilot
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GGT01EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl Especial LEG Retrospectiva
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/GGS06EXRSTR.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 6x10 LEG New York I Love You XOXO - Series Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer03/ondemand/GGS06EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 6x09 LEG The Revengers
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer03/ondemand/GGS06EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 6x08 LEG It’s Really Complicated
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer03/ondemand/GGS06EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 6x07 LEG Save the Last Chance
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer03/ondemand/GGS06EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 6x06 LEG Where the Vile Things Are
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer03/ondemand/GGS06EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 6x05 LEG Monstrous Ball
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer03/ondemand/GGS06EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 6x04 LEG Portrait of a Lady Alexander
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS06EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 6x03 LEG Dirty Rotten Scandals
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS06EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 6x02 LEG High Infidelity
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS06EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 6x01 LEG Gone Maybe Gone
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS06EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 5x24 LEG The Return of the Ring - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS05EP24.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 5x23 LEG The Fugitives
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS05EP23.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 5x22 LEG Raiders of The Lost Art
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS05EP22.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 5x21 LEG Despicable B.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS05EP21.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 5x20 LEG Salon of the Dead
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS05EP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 5x19 LEG It Girl Interrupted
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS05EP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 5x18 LEG Con-Heir
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS05EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 5x17 LEG The Princess Dowry
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS05EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 5x16 LEG Cross Rhodes
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS05EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 5x15 LEG Crazy Cupid Love
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS05EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 5x14 LEG The Backup Dan
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS05EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 5x13 LEG G.G.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS05EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 5x12 LEG Father and the Bride
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS05EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 5x11 LEG The End of The Affair?
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS05EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 5x10 LEG Riding In Town Cars With Boys
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS05EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 5x09 LEG Rhodes To Perdition
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS05EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 5x08 LEG All the Pretty Sources
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS05EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 5x07 LEG The Big Sleep No More
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS05EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 5x06 LEG I Am Number Nine
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS05EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 5x05 LEG The Fasting and the Furious
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS05EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 5x04 LEG The Jewel Of Denial
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS05EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 5x03 LEG The Jewel Of Denial
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS05EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 5x02 LEG Beauty and The Feast
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS05EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 5x01 LEG Yes Then Zero
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS05EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 4x22 LEG The Wrong Goodbye - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS04EP22.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 4x21 LEG Shattered Bass
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS04EP21.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 4x20 LEG The Princesses and the Frog
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS04EP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 4x19 LEG Petty in Pink
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS04EP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 4x18 LEG The Kids Stay in the Picture
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS04EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 4x17 LEG Empire of the Son
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS04EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 4x16 LEG While You Weren’t Sleeping
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS04EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 4x15 LEG It-Girl Happened One Night
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS04EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 4x14 LEG Panic Roommate
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS04EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 4x13 LEG Damien Darko
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS04EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 4x12 LEG The Kids Are Not All Right
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS04EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 4x11 LEG The Townie
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS04EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 4x10 LEG Gaslit
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS04EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 4x09 LEG The Witches of Bushwick
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS04EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 4x08 LEG Juliet Doesn’t Live Here Anymore
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS04EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 4x07 LEG War At The Roses
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS04EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 4x06 LEG Easy J
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS04EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 4x05 LEG Goodbye Columbia
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS04EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 4x04 LEG Touch of Eva
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS04EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 4x03 LEG The Undergraduates
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS04EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 4x02 LEG Double Identity
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS04EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 4x01 LEG Belles de Jour
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS04EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 3x22 LEG Last Tango Then Paris - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS03EP22.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 3x21 LEG Ex-Husbands and Wives
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS03EP21.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 3x20 LEG It’s a Dad Dad Dad Dad World
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS03EP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 3x19 LEG Dr. Estrangeloved
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS03EP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 3x18 LEG The Unblairable Lightness of Being
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS03EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 3x17 LEG Inglourious Bassterds
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS03EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 3x16 LEG The Empire Strikes Jack
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS03EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 3x15 LEG The Sixteen Year Old Virgin
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS03EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 3x14 LEG The Lady Vanished
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS03EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 3x13 LEG The Hurt Locket
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS03EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 3x12 LEG The Debarted
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS03EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 3x11 LEG The Treasure of Serena Madre
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS03EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 3x10 LEG The Last Days of Disco Stick!
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS03EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 3x09 LEG They Shoot Humphreys Don’t They?
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS03EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 3x08 LEG The Grandfather: Part II
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS03EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 3x07 LEG How to Succeed in Bassness
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS03EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 3x06 LEG Enough About Eve
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS03EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 3x05 LEG Rufus Getting Married
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS03EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 3x04 LEG Dan De Fleurette
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS03EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 3x03 LEG The Lost Boy
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS03EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 3x02 LEG The Freshman
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS03EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 3x01 LEG Reversals of Fortune
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS03EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 2x25 LEG The Goodbye Gossip Girl - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS02EP25.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 2x24 LEG Valley Girls
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS02EP24.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 2x23 LEG The Wrath of Con
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS02EP23.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 2x22 LEG Southern Gentlemen Prefer Blondes
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS02EP22.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 2x21 LEG Seder Anything
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS02EP21.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 2x20 LEG Remains of the J
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS02EP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 2x19 LEG The Grandfather
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS02EP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 2x18 LEG The Age of Dissonance
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS02EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 2x17 LEG Carnal Knowledge
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS02EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 2x16 LEG You’ve Got Yale!
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS02EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 2x15 LEG Gone With the Will
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS02EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 2x14 LEG In The Realm of the Basses
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS02EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 2x13 LEG O Brother Where Bart Thou?
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS02EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 2x12 LEG It’s a Wonderful Lie
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS02EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 2x11 LEG The Magnificent Archibalds
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS02EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 2x10 LEG Bonfire of The Vanity
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS02EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 2x09 LEG There Might Be Blood
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS02EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 2x08 LEG Pret-a-Poor Jenny
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS02EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",3ossip Girl 2x07 LEG Chuck In Real Life
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS02EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 2x06 LEG New Haven Can Wait
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS02EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 2x05 LEG The Serena Also Rises
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS02EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 2x04 LEG The Ex-Files
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS02EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 2x03 LEG The Dark Night
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS02EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 2x02 LEG Never Been Marcused
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS02EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 2x01 LEG Summer Kind Of Wonderful
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS02EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 1x18 LEG Much ‘I Do’ About Nothing - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS01EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 1x17 LEG Woman on the Verge
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS01EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 1x16 LEG All About My Brother
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS01EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 1x15 LEG Desperately Seeking Serena
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS01EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 1x14 LEG The Blair Bitch Project
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS01EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 1x13 LEG A Thin Line Between Chuck and Nate
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS01EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 1x12 LEG School Lies
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS01EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 1x11 LEG Roman Holiday
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS01EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 1x10 LEG Hi Society
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS01EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 1x09 LEG Blair Waldorf Must Pie!
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS01EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 1x08 LEG Seventeen Candles
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS01EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 1x07 LEG Victor Victrola
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS01EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 1x06 LEG The Handmaiden’s Tale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS01EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 1x05 LEG Dare Devil
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS01EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 1x04 LEG Bad News Blair
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS01EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 1x03 LEG Poison Ivy
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS01EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 1x02 LEG The Wild Brunch
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS01EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/07vVE2" group-title="Gossip Girl Legendado",Gossip Girl 1x01 LEG Pilot
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/GGS01EP01.mp4
 
 #EXTINF:-1 tvg-logo="http://goo.gl/2cLeSn" group-title="Mike & Molly Dublado",Mike & Molly 6x01
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/MKEMLYT05EP01.mp4
@@ -6081,56 +6567,244 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/LCFRS01EP12.m
 #EXTINF:-1 group-title="Lucifer LEG" ,1x13Lucifer
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/LCFRS01EP13.mp4
 
-#EXTINF:-1 group-title="Lost DUB" ,1x1Lost
-http://cdn6.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP01.mp4
-#EXTINF:-1 group-title="Lost DUB" ,1x2Lost
-http://cdn6.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP02.mp4
-#EXTINF:-1 group-title="Lost DUB" ,1x3Lost
-http://cdn6.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP03.mp4
-#EXTINF:-1 group-title="Lost DUB" ,1x4Lost
-http://cdn6.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP04.mp4
-#EXTINF:-1 group-title="Lost DUB" ,1x5Lost
-http://cdn6.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP05.mp4
-#EXTINF:-1 group-title="Lost DUB" ,1x6Lost
-http://cdn6.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP06.mp4
-#EXTINF:-1 group-title="Lost DUB" ,1x7Lost
-http://cdn6.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP07.mp4
-#EXTINF:-1 group-title="Lost DUB" ,1x8Lost
-http://cdn6.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP08.mp4
-#EXTINF:-1 group-title="Lost DUB" ,1x9Lost
-http://cdn6.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP09.mp4
-#EXTINF:-1 group-title="Lost DUB" ,1x10Lost
-http://cdn6.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP10.mp4
-#EXTINF:-1 group-title="Lost DUB" ,1x11Lost
-http://cdn6.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP11.mp4
-#EXTINF:-1 group-title="Lost DUB" ,1x12Lost
-http://cdn6.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP12.mp4
-#EXTINF:-1 group-title="Lost DUB" ,1x13Lost
-http://cdn6.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP13.mp4
-#EXTINF:-1 group-title="Lost DUB" ,1x14Lost
-http://cdn6.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP14.mp4
-#EXTINF:-1 group-title="Lost DUB" ,1x15Lost
-http://cdn6.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP15.mp4
-#EXTINF:-1 group-title="Lost DUB" ,1x16Lost
-http://cdn6.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP16.mp4
-#EXTINF:-1 group-title="Lost DUB" ,1x17Lost
-http://cdn6.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP17.mp4
-#EXTINF:-1 group-title="Lost DUB" ,1x18Lost
-http://cdn6.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP18.mp4
-#EXTINF:-1 group-title="Lost DUB" ,1x19Lost
-http://cdn6.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP19.mp4
-#EXTINF:-1 group-title="Lost DUB" ,1x20Lost
-http://cdn6.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP20.mp4
-#EXTINF:-1 group-title="Lost DUB" ,1x21Lost
-http://cdn6.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP21.mp4
-#EXTINF:-1 group-title="Lost DUB" ,1x22Lost
-http://cdn6.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP22.mp4
-#EXTINF:-1 group-title="Lost DUB" ,1x23Lost
-http://cdn6.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP23.mp4
-#EXTINF:-1 group-title="Lost DUB" ,1x24Lost
-http://cdn6.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP24.mp4
-#EXTINF:-1 group-title="Lost DUB" ,1x25Lost
-http://cdn6.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP25.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 6x17/18 The End - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT06EP17-18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 6x16 What They Died For
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT06EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 6x15 Across the Sea
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT06EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 6x14 The Candidate
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT06EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 6x13 The Last Recruit
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT06EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 6x12 Everybody Loves Hugo
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT06EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 6x11 Happily Ever After
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT06EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 6x10 The Package
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT06EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 6x09 Ab Aeterno
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT06EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 6x08 Recon
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT06EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 6x07 Dr. Linus
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT06EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 6x06 Sundown
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT06EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 6x05 Lighthouse
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT06EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 6x04 The Substitute
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT06EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 6x03 What Kate Does
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT06EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 6x01-02 LA X
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT06EP01-02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 5x17 The Incident (Parte II) - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT05EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 5x16 The Incident (Parte I)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT05EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 5x15 Follow the Leader
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT05EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 5x14 The Variable
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT05EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 5x13 Some Like It Hoth
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT05EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 5x12 Dead Is Dead
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT05EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 5x11 Whatever Happened Happened
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT05EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 5x10 He’s Our You
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT05EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 5x09 Namaste
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT05EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 5x08 LaFleur
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT05EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 5x07 The Life and Death of Jeremy Bentham
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT05EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 5x06 316
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT05EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 5x05 This Place Is Death
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT05EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 5x04 The Little Prince
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT05EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 5x03 Jughead
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT05EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 5x02 The Lie
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT05EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 5x01 Because You Left
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT05EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 4x14 There’s No Place Like Home (Part 3) - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT04EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 4x13 There’s No Place Like Home (Part 2)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT04EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 4x12 There’s No Place Like Home (Part 1)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT04EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 4x11 Cabin Fever
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT04EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 4x10 Something Nice Back Home
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT04EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 4x09 The Shape of Things to Come
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT04EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 4x08 Meet Kevin Johnson
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT04EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 4x07 Ji Yeon
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT04EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 4x06 The Other Woman
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT04EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 4x05 The Constant
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT04EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 4x04 Eggtown
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT04EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 4x03 The Economist
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT04EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 4x02 Confirmed Dead
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT04EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 4x01 The Beginning of the End
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT04EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 3x23 Greatest Hits (Parte II) - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT03EP23.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 3x22 Greatest Hits (Parte I)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT03EP22.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 3x21 Greatest Hits
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT03EP21.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 3x20 The Man Behind the Curtain
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT03EP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 3x19 The Brig
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT03EP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 3x18 D.O.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT03EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 3x17 Catch-22
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT03EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 3x16 One of Us
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT03EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 3x15 Left Behind
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT03EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 3x14 Exposé
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT03EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 3x13 The Man from Tallahassee
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT03EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 3x12 Par Avion
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT03EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 3x11 Enter 77
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT03EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 3x10 Tricia Tanaka Is Dead
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT03EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 3x09 Stranger in a Strange Land
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT03EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 3x08 Flashes Before Your Eyes
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT03EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 3x07 Not in Portland
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT03EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 3x06 I Do
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT03EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 3x05 The Cost of Living
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT03EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 3x04 Every Man for Himself
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT03EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 3x03 Further Instructions
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT03EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 3x02 The Glass Ballerina
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT03EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 3x01 A Tale of Two Cities
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT03EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 2x24 Live Together Die Alone (Parte II) - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT02EP24.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 2x23 Live Together Die Alone (Parte I)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT02EP23.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 2x22 Three Minutes
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT02EP22.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 2x21 ?
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT02EP21.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 2x20 Two for the Road
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT02EP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 2x19 S.O.S.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT02EP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 2x18 Dave
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT02EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 2x17 Lockdown
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT02EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 2x16 The Whole Truth
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT02EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 2x15 Maternity Leave
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT02EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 2x14 One of Them
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT02EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 2x13 The Long Con
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT02EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 2x12 Fire + Water
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT02EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 2x11 The Hunting Party
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT02EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 2x10 The 23rd Psalm
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT02EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 2x09 What Kate Did
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT02EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 2x08 Collision
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT02EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 2x07 The Other 48 Days
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT02EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 2x06 Abandoned
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT02EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 2x05 …And Found
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT02EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 2x04 Everybody Hates Hugo
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT02EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 2x03 Orientation
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT02EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 2x02 Adrift
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT02EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 2x01 Man of Science Man of Faith
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT02EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 1x25 Exodus (Part 3) - Season Finale
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP25.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 1x24 Exodus (Part 2)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP24.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 1x23 Exodus (Part 1)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP23.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 1x22 Born to Run
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP22.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 1x21 The Greater Good
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP21.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 1x20 Do No Harm
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 1x19 Deus Ex Machina
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 1x18 Numbers
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 1x17 …In Translation
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 1x16 Outlaws
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 1x15 Homecoming
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 1x14 Special
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 1x13 Hearts and Minds
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 1x12 Whatever the Case May Be
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 1x11 All the Best Cowboys Have Daddy Issues
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 1x10 Raised by Another
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 1x09 Solitary
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 1x08 Confidence Man
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 1x07 The Moth
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 1x06 House of the Rising Sun
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 1x05 White Rabbit
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 1x04 Walkabout
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 1x03 Tabula Rasa
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 1x02 Pilot (Part 2)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/bNlhzp" group-title="Lost Dublado",Lost 1x01 Pilot (Part 1)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/LOSTT01EP01.mp4
 
 #EXTINF:-1 group-title="Legends Of Tomorrow DUB" ,1x1Legends Of Tomorrow
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP01.mp4
