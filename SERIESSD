@@ -2,6 +2,48 @@
 #EXTINF:-1 tvg-logo="https://goo.gl/E3lVLy" group-title="SERIES EM SD" ,IPTVBRASILHD.BLOGSPOT.COM
 http://wse.planeta-online.tv:1935/live/channel_3/livestream.m3u8
 
+#EXTINF:-1 tvg-logo="https://goo.gl/eKP7pS" group-title="Angie Tribeca DUB",1x1Angie Tribeca
+http://www.blogger.com/video-play.mp4?contentId=b36754101a3c308b
+#EXTINF:-1 tvg-logo="https://goo.gl/eKP7pS" group-title="Angie Tribeca DUB",1x2Angie Tribeca
+http://www.blogger.com/video-play.mp4?contentId=bbfa72132ff5af84
+#EXTINF:-1 tvg-logo="https://goo.gl/eKP7pS" group-title="Angie Tribeca DUB",1x3Angie Tribeca
+http://www.blogger.com/video-play.mp4?contentId=db11a7d3cb1d1a95
+#EXTINF:-1 tvg-logo="https://goo.gl/eKP7pS" group-title="Angie Tribeca DUB",1x4Angie Tribeca
+http://www.blogger.com/video-play.mp4?contentId=f967959fd25caa38
+#EXTINF:-1 tvg-logo="https://goo.gl/eKP7pS" group-title="Angie Tribeca DUB",1x5Angie Tribeca
+http://www.blogger.com/video-play.mp4?contentId=3fe3959ad70e7580
+#EXTINF:-1 tvg-logo="https://goo.gl/eKP7pS" group-title="Angie Tribeca DUB",1x6Angie Tribeca
+http://www.blogger.com/video-play.mp4?contentId=2874e9492da04866
+#EXTINF:-1 tvg-logo="https://goo.gl/eKP7pS" group-title="Angie Tribeca DUB",1x7Angie Tribeca
+http://www.blogger.com/video-play.mp4?contentId=fdfc43ec76b3814b
+#EXTINF:-1 tvg-logo="https://goo.gl/eKP7pS" group-title="Angie Tribeca DUB",1x8Angie Tribeca
+http://www.blogger.com/video-play.mp4?contentId=70ee61769b5a3437
+#EXTINF:-1 tvg-logo="https://goo.gl/eKP7pS" group-title="Angie Tribeca DUB",1x9Angie Tribeca
+http://www.blogger.com/video-play.mp4?contentId=88ec5b4aec348f6c
+#EXTINF:-1 tvg-logo="https://goo.gl/eKP7pS" group-title="Angie Tribeca DUB",1x10Angie Tribeca
+http://www.blogger.com/video-play.mp4?contentId=d243078503ec178e
+
+#EXTINF:-1 tvg-logo="https://goo.gl/eKP7pS" group-title="Angie Tribeca LEG",1x1LEG-Angie Tribeca
+http://www.blogger.com/video-play.mp4?contentId=dfbf3d88e8c4b94c
+#EXTINF:-1 tvg-logo="https://goo.gl/eKP7pS" group-title="Angie Tribeca LEG",1x2LEG-Angie Tribeca
+http://www.blogger.com/video-play.mp4?contentId=eaf8a4b9265085c0
+#EXTINF:-1 tvg-logo="https://goo.gl/eKP7pS" group-title="Angie Tribeca LEG",1x3LEG-Angie Tribeca
+http://www.blogger.com/video-play.mp4?contentId=ef12fc554daabc7b
+#EXTINF:-1 tvg-logo="https://goo.gl/eKP7pS" group-title="Angie Tribeca LEG",1x4LEG-Angie Tribeca
+http://www.blogger.com/video-play.mp4?contentId=1e2ade4d8ecca29b
+#EXTINF:-1 tvg-logo="https://goo.gl/eKP7pS" group-title="Angie Tribeca LEG",1x5LEG-Angie Tribeca
+http://www.blogger.com/video-play.mp4?contentId=c97d5cbd33a18c6c
+#EXTINF:-1 tvg-logo="https://goo.gl/eKP7pS" group-title="Angie Tribeca LEG",1x6LEG-Angie Tribeca
+
+#EXTINF:-1 tvg-logo="https://goo.gl/eKP7pS" group-title="Angie Tribeca LEG",1x7LEG-Angie Tribeca
+http://www.blogger.com/video-play.mp4?contentId=dfa4ef34fe67c122
+#EXTINF:-1 tvg-logo="https://goo.gl/eKP7pS" group-title="Angie Tribeca LEG",1x8LEG-Angie Tribeca
+http://www.blogger.com/video-play.mp4?contentId=6751a9c52d86bbcd
+#EXTINF:-1 tvg-logo="https://goo.gl/eKP7pS" group-title="Angie Tribeca LEG",1x9LEG-Angie Tribeca
+http://www.blogger.com/video-play.mp4?contentId=2eceb65b887810f
+#EXTINF:-1 tvg-logo="https://goo.gl/eKP7pS" group-title="Angie Tribeca LEG",1x10LEG-Angie Tribeca
+http://www.blogger.com/video-play.mp4?contentId=c7f3b36faa44ffd7
+
 #EXTINF:-1 tvg-logo="https://goo.gl/HEZCwS" group-title="Marseille DUB",1x1Marseille
 http://www.blogger.com/video-play.mp4?contentId=698d9f8eee2e46dd
 #EXTINF:-1 tvg-logo="https://goo.gl/HEZCwS" group-title="Marseille DUB",1x2Marseille
