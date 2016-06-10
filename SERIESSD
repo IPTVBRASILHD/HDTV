@@ -2,6 +2,40 @@
 #EXTINF:-1 tvg-logo="https://goo.gl/E3lVLy" group-title="SERIES EM SD" ,IPTVBRASILHD.BLOGSPOT.COM
 http://wse.planeta-online.tv:1935/live/channel_3/livestream.m3u8
 
+#EXTINF:-1 tvg-logo="https://goo.gl/HEZCwS" group-title="Marseille DUB",1x1Marseille
+http://www.blogger.com/video-play.mp4?contentId=698d9f8eee2e46dd
+#EXTINF:-1 tvg-logo="https://goo.gl/HEZCwS" group-title="Marseille DUB",1x2Marseille
+http://www.blogger.com/video-play.mp4?contentId=787bddf6f2b8674a
+#EXTINF:-1 tvg-logo="https://goo.gl/HEZCwS" group-title="Marseille DUB",1x3Marseille
+http://www.blogger.com/video-play.mp4?contentId=ac7d43ae27f93069
+#EXTINF:-1 tvg-logo="https://goo.gl/HEZCwS" group-title="Marseille DUB",1x4Marseille
+http://www.blogger.com/video-play.mp4?contentId=70674b3619d32ed6
+#EXTINF:-1 tvg-logo="https://goo.gl/HEZCwS" group-title="Marseille DUB",1x5Marseille
+http://www.blogger.com/video-play.mp4?contentId=d8dbf2335608c159
+#EXTINF:-1 tvg-logo="https://goo.gl/HEZCwS" group-title="Marseille DUB",1x6Marseille
+http://www.blogger.com/video-play.mp4?contentId=9507adf0555d3234
+#EXTINF:-1 tvg-logo="https://goo.gl/HEZCwS" group-title="Marseille DUB",1x7Marseille
+http://www.blogger.com/video-play.mp4?contentId=17cfe1b2e873d7a1
+#EXTINF:-1 tvg-logo="https://goo.gl/HEZCwS" group-title="Marseille DUB",1x8Marseille
+http://www.blogger.com/video-play.mp4?contentId=31c47220df7dd612
+
+#EXTINF:-1 tvg-logo="https://goo.gl/HEZCwS" group-title="Marseille LEG",1x1LEG-Marseille
+http://www.blogger.com/video-play.mp4?contentId=ba3ccaf780c010b2
+#EXTINF:-1 tvg-logo="https://goo.gl/HEZCwS" group-title="Marseille LEG",1x2LEG-Marseille
+http://www.blogger.com/video-play.mp4?contentId=e0721cc59d9d30c9
+#EXTINF:-1 tvg-logo="https://goo.gl/HEZCwS" group-title="Marseille LEG",1x3LEG-Marseille
+http://www.blogger.com/video-play.mp4?contentId=b257873045490ac5
+#EXTINF:-1 tvg-logo="https://goo.gl/HEZCwS" group-title="Marseille LEG",1x4LEG-Marseille
+http://www.blogger.com/video-play.mp4?contentId=f01070bd4b32da98
+#EXTINF:-1 tvg-logo="https://goo.gl/HEZCwS" group-title="Marseille LEG",1x5LEG-Marseille
+http://www.blogger.com/video-play.mp4?contentId=c38f4d3137dbeb34
+#EXTINF:-1 tvg-logo="https://goo.gl/HEZCwS" group-title="Marseille LEG",1x6LEG-Marseille
+http://www.blogger.com/video-play.mp4?contentId=c0ae9ee95e1fc60
+#EXTINF:-1 tvg-logo="https://goo.gl/HEZCwS" group-title="Marseille LEG",1x7LEG-Marseille
+http://www.blogger.com/video-play.mp4?contentId=2bdf21b1438eeb20
+#EXTINF:-1 tvg-logo="https://goo.gl/HEZCwS" group-title="Marseille LEG",1x8LEG-Marseille
+http://www.blogger.com/video-play.mp4?contentId=b2d2f8beb520876e
+
 #EXTINF:-1 tvg-logo="https://goo.gl/ZGzsjU" group-title="The Durrells LEG",1x1LEG-The Durrells
 http://www.blogger.com/video-play.mp4?contentId=3fde9ca9efea61eb
 #EXTINF:-1 tvg-logo="https://goo.gl/ZGzsjU" group-title="The Durrells LEG",1x2LEG-The Durrells
