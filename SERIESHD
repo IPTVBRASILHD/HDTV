@@ -7405,9 +7405,19 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/BALRST01EP10.
 #EXTINF:-1 group-title="A Hora do Rush DUB" ,1x1A Hora do Rush
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHT01EP01.mp4
 #EXTINF:-1 group-title="A Hora do Rush DUB" ,1x2A Hora do Rush
-http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHT01EP01.mp4
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHT01EP02.mp4
 #EXTINF:-1 group-title="A Hora do Rush DUB" ,1x3A Hora do Rush
-http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHT01EP01.mp4
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHT01EP03.mp4
+#EXTINF:-1 group-title="A Hora do Rush DUB" ,1x4A Hora do Rush
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHT01EP04.mp4
+#EXTINF:-1 group-title="A Hora do Rush DUB" ,1x5A Hora do Rush
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHT01EP05.mp4
+#EXTINF:-1 group-title="A Hora do Rush DUB" ,1x6A Hora do Rush
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHT01EP06.mp4
+#EXTINF:-1 group-title="A Hora do Rush DUB" ,1x7A Hora do Rush
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHT01EP07.mp4
+#EXTINF:-1 group-title="A Hora do Rush DUB" ,1x8A Hora do Rush
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHT01EP08.mp4
 
 #EXTINF:-1 group-title="Rush Hour LEG" ,1x1Rush Hour
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHS01EP01.mp4
@@ -7419,6 +7429,12 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHS01EP0
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHS01EP04.mp4
 #EXTINF:-1 group-title="Rush Hour LEG" ,1x5Rush Hour
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHS01EP05.mp4
+#EXTINF:-1 group-title="Rush Hour LEG" ,1x6Rush Hour
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHS01EP06.mp4
+#EXTINF:-1 group-title="Rush Hour LEG" ,1x7Rush Hour
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHS01EP07.mp4
+#EXTINF:-1 group-title="Rush Hour LEG" ,1x8Rush Hour
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHS01EP08.mp4
 
 #EXTINF:-1 group-title="Vinyl DUB" ,1x1Vinyl
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/VNYLT01EP01.mp4
