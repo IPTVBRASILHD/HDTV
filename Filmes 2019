@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1,https://siptvbr.blogspot.com/
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T6nilcW.jpg" group-title="Filmes 2019" ,Aladdin
+https://4.bp.blogspot.com/-oEsqimd5qes/XWpUcRFoAHI/AAAAAAAAKZ0/UkOwA6Qt_YUdw3UMU7FewMrmQalKEGLngCKgBGAs/m22/Aladdin.2019.1010.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T6nilcW.jpg" group-title="Filmes 2019" ,Turma da Monica Lacos
+https://3.bp.blogspot.com/-OzgEUM6NmfI/XWpUcQt_tNI/AAAAAAAAKZ0/hSNXSDf0iSogZDO8kU2kHCDFYyYSlEKkQCKgBGAs/m22/Turma.da.Monica.Lacos.2019.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/dXIbXQGmOK0UX8akdwaYMUqVHA6.jpg" group-title="Filmes 2019",Nós (2019)
 https://lh3.googleusercontent.com/uFIg_VL0QRZIEGP_1Zd0czVY1-6D-Scy8GLU2H8n42BLfCe_XoLvixh_C1siJGT7daaeV5WU23f4UKMA7Qb8yhEoJjEhfyvaAv4wxvJg4FygRJB9Vg8bUwjp52jutu9j49B68TJwTA=m22
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/dXIbXQGmOK0UX8akdwaYMUqVHA6.jpg" group-title="Filmes 2019",LEG Nós (2019)
